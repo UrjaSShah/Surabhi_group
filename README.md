@@ -5,37 +5,20 @@ This repository contains a collection of practice codes developed to explore the
 📂 Contents
 
 Waveform Modeling
-
-Compact binary inspiral signals
-
-Parameterized chirp generation
-
-Time–frequency visualizations (spectrograms)
-
+  -  Compact binary inspiral signals
+  -  Parameterized chirp generation
+  -  Time–frequency visualizations (spectrograms)
 Data Analysis
-
-Matched filtering with template banks
-
-Noise characterization and whitening
-
-Signal-to-noise ratio (SNR) estimation
-
-Visualization
-
-Strain data plots
-
-Frequency–time evolution of GW signals
-
-Comparison of injected vs. recovered waveforms
+  -  Matched filtering with template banks
+  -  Noise characterization and whitening
+  -  Signal-to-noise ratio (SNR) estimation
 
 ⚡ Features
 
-Python scripts and Jupyter notebooks for interactive learning
-
-Uses standard scientific and GW-related libraries:
+- Python scripts and Jupyter notebooks for interactive learning
+- Uses standard scientific and GW-related libraries:
 numpy, scipy, matplotlib, gwpy, pycbc
-
-Emphasis on clarity and reproducibility
+- Emphasis on clarity and reproducibility
 
 🎓 Academic Context
 
